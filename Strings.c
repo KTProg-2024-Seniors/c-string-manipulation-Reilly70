@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
 	char stringChanged[sizeof(stringArray)];
 	
 	printf("Original String: %s",stringArray);
+	printf("jam");
 	
 	//Code to change uppercase to lowercase and vice versa goes here
 	
