@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 	printf("jam");
 	
 	//Code to change uppercase to lowercase and vice versa goes here
-	
+	printf("haiku");
 	
 	//Print modified string
 	printf("Modified String: %s",stringChanged);
